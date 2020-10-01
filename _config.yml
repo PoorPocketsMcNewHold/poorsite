@@ -1,27 +1,27 @@
 # Site specific settings
-title: "Title to this website"
-name: "Website name"
-keywords: "Key, words, about, this, website"
-baseurl: "/darcli"
-url: "http://website.com"
+title: "PoorSite"
+name: "PoorPockets McNewHold Personal Website"
+keywords: "poorpocketsmcnewhold, jekyll, website, github, portfolio, darcli"
+baseurl: "/poorsite"
+url: "https://poorpocketsmcnewhold.github.io/poorsite/"
 description: "Website description"
-cover: "/assets/img/cover.svg"
+cover: "/assets/img/background.gif"
 fanpage_id: ""
 
 # Site general settings
 lang: "en"
-lang_alternate: "pt_BR"
-ssl: false # It will redirect to https
+lang_alternate: "fr_FR"
+ssl: true # It will redirect to https
 
 # Media
 # Just the shortname:
-# facebook: lampiaosec # Rigth
-# facebook: facebook.com/lampiaosec # Wrong
-disqus: test
-twitter: 
-facebook: 
-github: 
-google:
+session: 05e327ae933f8cb8b0ce95ffad57a70af9b1de1b1c931fc8c3f8fd568ec9599140
+discord: PoorPockets McNewHold#1984
+matrix: poorpocketsmcnewhold@matrix.org 
+keybase: p_mcnewhold 
+github: PoorPocketsMcNewHold
+mastodon: poorpocketsmcnewhold@mamot.fr
+mail: g.k@e.email
 
 # Build settings
 markdown: kramdown
